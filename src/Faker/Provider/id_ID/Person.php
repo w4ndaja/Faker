@@ -31,6 +31,7 @@ class Person extends \Faker\Provider\Person
      * @link http://www.nama.web.id/search.php?gender=male&origin=Indonesia+-+Jawa&letter=&submit=Search
      */
     protected static $firstNameMale = array(
+        'Firman', 'Annas', 'Obed', 'Viery','Bobo',
         'Abyasa', 'Ade', 'Adhiarja', 'Adiarja', 'Adika', 'Adikara', 'Adinata',
         'Aditya', 'Agus', 'Ajiman', 'Ajimat', 'Ajimin', 'Ajiono', 'Akarsana',
         'Alambana', 'Among', 'Anggabaya', 'Anom', 'Argono', 'Aris', 'Arta',
@@ -145,6 +146,7 @@ class Person extends \Faker\Provider\Person
      * @link http://id.wikipedia.org/wiki/Daftar_marga_suku_Batak_di_Toba
      */
     protected static $lastNameMale = array(
+        'Persadanta Ginting', 'Simarmata', 'Irwanda Irawan','Rusdia Wandari'
         'Adriansyah', 'Ardianto', 'Anggriawan', 'Budiman', 'Budiyanto',
         'Damanik', 'Dongoran', 'Dabukke', 'Firmansyah', 'Firgantoro',
         'Gunarto', 'Gunawan', 'Hardiansyah', 'Habibi', 'Hakim', 'Halim',
